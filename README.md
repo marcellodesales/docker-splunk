@@ -248,9 +248,9 @@ The Native Docker Driver was announced in Dec 2015 and you can readme more about
 
 The HTTP Event Collector is documented at the following resources:
 
-* [http://dev.splunk.com/view/event-collector/SP-CAAAE6M](Introduction to Splunk HTTP Event Collector)
-* [http://dev.splunk.com/view/event-collector/SP-CAAAE7F](HTTP Event Collector walkthrough)
-* [http://dev.splunk.com/view/event-collector/SP-CAAAE6P](About the JSON event protocol in HTTP Event Collector)
+* [Introduction to Splunk HTTP Event Collector](http://dev.splunk.com/view/event-collector/SP-CAAAE6M)
+* [HTTP Event Collector walkthrough](http://dev.splunk.com/view/event-collector/SP-CAAAE7F)
+* [About the JSON event protocol in HTTP Event Collector](http://dev.splunk.com/view/event-collector/SP-CAAAE6P)
 * https://github.com/splunk/splunk-javascript-logging
 
 Before configuring a service to run the Native Docker Driver, make sure to setup the Server. 
